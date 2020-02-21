@@ -6,6 +6,12 @@
 
 - Add 1.0.0 requirements to [README][1]
 
+To do for this release:
+
+- Clean up front-end bootstrapping
+- Remove unnecessary blade templates
+- Remove unnecessary front-end dependencies
+
 ## 0.1.0
 
 Initial Laravel project state
