@@ -2,7 +2,7 @@
 
 ## 0.1.1
 
-### Details
+### Changes
 
 - Add 1.0.0 requirements to [README]
 
@@ -11,6 +11,7 @@ To do for this release:
 - Clean up front-end bootstrapping
 - Remove unnecessary blade templates
 - Remove unnecessary front-end dependencies
+- Create catch-all web route returning a No Content status code
 
 ## 0.1.0
 
