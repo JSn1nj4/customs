@@ -11,6 +11,6 @@
 |
 */
 
-Route::get('/', function () {
-    return view('welcome');
-});
+Route::any('{any?}', function ($any = null) {
+    return response()->noContent();
+})->where('any', '.*');

@@ -6,10 +6,8 @@
 
 - Add 1.0.0 requirements to [README]
 - Clean up front-end bootstrapping
-
-To do for this release:
-
 - Create catch-all web route returning a No Content status code
+- Create catch-all API route returning a No Content status code
 
 ## 0.1.0
 
