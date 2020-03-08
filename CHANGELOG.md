@@ -4,7 +4,7 @@
 
 ### Details
 
-- Add 1.0.0 requirements to [README][1]
+- Add 1.0.0 requirements to [README]
 
 To do for this release:
 
@@ -22,4 +22,4 @@ Differences:
 - LICENSE file provided via GitHub repo initialization
 - yarn.lock instead of package-lock.json
 
-[1]: https://github.com/JSn1nj4/customs/blob/master/README.md
+[readme]: https://github.com/JSn1nj4/customs/blob/master/README.md
